@@ -18,3 +18,10 @@ function sayMyName(name) {
     console.log(name);
 }
 sayMyName('Фодр');
+// Never
+function throwError(message) {
+    throw new Error(message);
+}
+var login = 'admin';
+var id1 = 1234;
+var id2 = '1234';
