@@ -22,6 +22,6 @@ sayMyName('Фодр');
 function throwError(message) {
     throw new Error(message);
 }
-var login = 'admin';
+var myLlogin = 'admin';
 var id1 = 1234;
 var id2 = '1234';

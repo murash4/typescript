@@ -37,7 +37,7 @@ function throwError (message: string): never {
 
 // Type
 type Login = string
-const login: Login = 'admin'
+const myLlogin: Login = 'admin'
 // const login2: Login = 2
 type ID = string | number
 const id1: ID = 1234
